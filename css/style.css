@@ -11,11 +11,15 @@
   margin-top: 30px;
   text-align: center;
 }
+.silver {
+  background-color:#F8F9F9 ;
+}
 [class*="col-"] {
   padding: 40px;
   line-height: 100%;
 }
 h2 {
+  padding-top: 20px;
   font-size: 30px;
   text-transform: capitalize;
 }
@@ -37,6 +41,7 @@ h3 {
 }
 p {
   line-height: 20px;
+  padding-bottom: 15px;
 }
 .background_blue {
   border-radius: 50%;
